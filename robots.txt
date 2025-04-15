@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://refootaskacyba.com/sitemap.xml
